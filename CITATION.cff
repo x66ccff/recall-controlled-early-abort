@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Recall-Controlled Early Abort for LLM Agents"
+type: software
+authors:
+  - family-names: Ruan
+    given-names: Kai
+  - family-names: Huang
+    given-names: Zihe
+  - family-names: Zhou
+    given-names: Ziqi
+  - family-names: Wei
+    given-names: Qianshan
+  - family-names: Lin
+    given-names: Jinghao
+  - family-names: Wang
+    given-names: Xuan
+  - family-names: Sun
+    given-names: Hao
+license: MIT
+repository-code: "https://github.com/x66ccff/recall-controlled-early-abort"
+preferred-citation:
+  type: article
+  title: "Doomed from the Start: Early Abort of LLM Agent Episodes via a Recall-Controlled Probe Cascade"
+  authors:
+    - family-names: Ruan
+      given-names: Kai
+    - family-names: Huang
+      given-names: Zihe
+    - family-names: Zhou
+      given-names: Ziqi
+    - family-names: Wei
+      given-names: Qianshan
+    - family-names: Lin
+      given-names: Jinghao
+    - family-names: Wang
+      given-names: Xuan
+    - family-names: Sun
+      given-names: Hao
+  year: 2026
+  doi: "10.48550/arXiv.2607.06503"
+  url: "https://arxiv.org/abs/2607.06503"
